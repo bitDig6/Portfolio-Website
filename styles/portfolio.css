@@ -41,6 +41,7 @@ main section{
     padding: 14px 30px;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
 }
 .btn-secondary{
     font-size: 18px;
@@ -51,6 +52,7 @@ main section{
     border-radius: 5px;
     opacity: 0.5;
     margin-left: 20px;
+    cursor: pointer;
 }
 
 .section-title{
