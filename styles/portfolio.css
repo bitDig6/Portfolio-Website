@@ -180,3 +180,33 @@ nav li a{
 .cv-download-btn{
     text-align: center;
 }
+/* footer styles */
+footer{
+    display: flex;
+    padding: 130px 230px;
+    gap: 117px;
+}
+.footer-column{
+    width: 50%;
+}
+.footer-description{
+    color: #757575;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+footer input[type="text"], footer input[type="email"], footer textarea{
+    display: block;
+    font-size: 16px;
+    width: 450px;
+    color: #757575;
+    letter-spacing: 1px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 18px 30px;
+    margin-bottom: 24px;
+}
+footer textarea{
+    resize: none;
+}
